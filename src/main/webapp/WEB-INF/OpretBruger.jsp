@@ -12,7 +12,7 @@
 </head>
 <body>
 
-Her kan du registrere dig som bruger på huskelisten
+Her skal kan du registrere dig inden du kan fortage indkøb i min webshop.
 
 <br>
 <br>
